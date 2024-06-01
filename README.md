@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## My name is Harrison, and I am second year student, studying Software Engineering at the University of Canberra.
+## Feel free to reach out on LinkedIn 😄 https://www.linkedin.com/in/harrison-lambert-7b1415245
 <!--
 **hlambert95/hlambert95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
