@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Harrison, and I am a second year student, studying Software Engineering at the University of Canberra. Feel free to reach out on LinkedIn 😄 https://www.linkedin.com/in/harrison-lambert-7b1415245
+My name is Harrison, and I'm a second year student studying Software Engineering at the University of Canberra. I have previously worked in the Operations team for both Apple and Tesla, and I'm currently working at the University of Canberra as Student Support Officer, and Icon Water as a Technical Officer while I complete my studies. Feel free to reach out on LinkedIn if you would like to get in touch 😄 https://www.linkedin.com/in/harrison-lambert-7b1415245
 <!--
 **hlambert95/hlambert95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
